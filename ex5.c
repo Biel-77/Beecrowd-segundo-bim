@@ -1,6 +1,5 @@
 #include <stdio.h>
 #define TF 5
-
 int main()
 {
     int valor,par[TF],impar[TF],i,j,contPar=0,cotImpar=0;
